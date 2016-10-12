@@ -6,7 +6,7 @@ Those are the materials for my X-training 2016 mini course
 
 ### Slides
 
-<script async class="speakerdeck-embed" data-id="fcfb1d436cb74be583f68d2520be7d21" data-ratio="1.6" src="//speakerdeck.com/assets/embed.js"></script>
+Can be found on SpeakerDeck at https://speakerdeck.com/cdiener/a-practical-guide-to-machine-learning.
 
 ### Installation
 
