@@ -6,7 +6,11 @@ Those are the materials for my X-training 2016 mini course
 
 ### Slides
 
-Can be found on SpeakerDeck at https://speakerdeck.com/cdiener/a-practical-guide-to-machine-learning.
+Note that those slides were mostly used to accompany the practical session
+performed with H2O. Thus, they do not contain all the information from the
+course.
+
+Nevertheless they can be found on SpeakerDeck at https://speakerdeck.com/cdiener/a-practical-guide-to-machine-learning.
 
 ### Installation
 
